@@ -1,4 +1,6 @@
-### pscp -r Desktop\serial_write.py pi@10.21.113.171:/home/pi/Desktop
+# The Digital World - 2D Simulation Project
+# A simulation of heat energy transfer into a container through one input and two outputs:
+# Solar radiation, Wall conduction, and Pump convection.
 
 import time
 import simpy
