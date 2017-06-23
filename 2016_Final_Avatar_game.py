@@ -1,3 +1,6 @@
+# The Digital World - Final Exam 2016
+# Great exercise on classes using an Avatar to navigate a Map with different events at specific coordinates.
+
 import copy
 from libdw import sm
 
